@@ -1,0 +1,361 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+#container {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+#para {
+    color: white;
+    position: absolute;
+    font-size: 16px;
+    /* bottom: 10px */
+    left: 550px;
+
+}
+#para:hover{
+    cursor: pointer;
+}
+#head {
+    font-size: 40px;
+    position: absolute;
+    left: 50px; 
+    font-family: 'Salsa', cursive;
+   
+} 
+#head:hover {
+    cursor: pointer;
+}
+li{
+    display: inline;
+    position: absolute;
+
+}
+#first {
+    left: 420px;
+    top: 100px;
+}
+#second {
+    position: absolute;
+    top:100px ;
+    left: 520px;
+}
+#third {
+    top: 100px;
+    left: 640px;
+}
+#fourth {
+    top: 100px;
+    left: 760px;
+}
+#fifth {
+    top: 100px;
+    position: absolute;
+    left: 890px;
+}
+/* #six {
+    top: 110px;
+    position: absolute;
+    left: 900px;
+} */
+/* #ul {
+    position: absolute;
+    left: 50px;
+    top: 1px;
+} */
+.ok:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    /* text-underline-position; top: 30px;; */
+    /* position: relative; */
+}
+#login {
+    position: absolute;
+    width: 170px;
+    top: 85px;
+    left: 1330px;
+}
+#login:hover {
+    cursor: pointer;
+}
+#center {
+position: absolute;
+top: 150px;
+/* left: 0px auto; */
+/* left: 0px; */
+right:0px ;
+width: 100%;
+
+}
+#center:hover {
+    cursor: pointer;
+}
+#chadda {
+    width: 400px;
+    position: relative;
+}
+#chaddacontain {
+    width: 400px;
+    height: 450px;
+    background-color: black;
+    position: absolute;
+    top: 880px;
+    left: 80px;
+    
+}
+#one {
+    color: white;
+    position: absolute;
+    top: 397px ;
+    left: 140px;
+    font-size: 20px;
+}
+#one:hover {
+    cursor: pointer;
+    color: #f736ad;
+}
+/*   */
+/* #chaddacontain2 {
+    width: 400px;
+    height: 300px;
+    background-color: transparent;
+    position: absolute;
+    top: 750px;
+    left: 60px;
+    
+} */
+/* #chadda:hover {
+    background-image: url(./images/chaddahover.PNG) ;
+} */
+#trouser {
+    width: 384px;
+    position: relative;
+}
+#trousercontain {
+    width: 384px;
+    height: 450px;
+    background-color: black;
+    position: absolute;
+    top: 880px;
+    left: 550px;
+    
+}
+#two {
+    color: white;
+    position: absolute;
+    top: 397px ;
+    left: 140px;
+    font-size: 20px;
+}
+#two:hover {
+    cursor: pointer;
+    color: #f736ad;
+}
+
+#tshirt {
+    width: 400px;
+    position: relative;
+}
+#tshirtcontain {
+    width: 400px;
+    height: 435px;
+    background-color: black;
+    position: absolute;
+    top: 894px;
+    left: 1000px;
+    
+}
+#three {
+    color: white;
+    position: absolute;
+    top: 380px ;
+    left: 140px;
+    font-size: 20px;
+}
+#three:hover {
+    cursor: pointer;
+    color: #f736ad;
+}
+#nightcapcontain {
+    width: 400px;
+    height: 435px;
+    background-color: black;
+    position: absolute;
+    top: 1400px;
+    left: 80px;
+    
+}
+#four {
+    color: white;
+    position: absolute;
+    top: 385px ;
+    left: 140px;
+    font-size: 20px;
+}
+#four:hover {
+    cursor: pointer;
+    color: #f736ad;
+}
+#nightcap {
+    width: 400px;
+    position: relative;
+}
+
+#fullshirt {
+    width: 384px;
+    position: relative;
+}
+#fullshirtcontain {
+    width: 384px;
+    height: 405px;
+    background-color: black;
+    position: absolute;
+    top: 1430px;
+    left: 550px;
+    
+}
+#five {
+    color: white;
+    position: absolute;
+    top: 355px ;
+    left: 140px;
+    font-size: 20px;
+}
+#five:hover {
+    cursor: pointer;
+    color: #f736ad;
+}
+#cap {
+    width: 400px;
+    position: relative;
+}
+#capcontain {
+    width: 400px;
+    height: 440px;
+    background-color: black;
+    position: absolute;
+    top: 1395px;
+    left: 1000px;
+    
+}
+#six {
+    color: white;
+    position: absolute;
+    top: 390px ;
+    left: 140px;
+    font-size: 20px;
+}
+#six:hover {
+    cursor: pointer;
+    color: #f736ad;
+}
+#line { 
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    top: 1900px;
+    position:  absolute;
+    border-bottom: 2px solid black;
+}
+#finish {
+    top: 2000px;
+    position: absolute;
+    left: 30px;
+    font-size: 12px;
+
+}
+#search {
+    padding: 5px 10px ;
+    border-bottom: 1px solid black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 300px;
+}
+#bar {
+    position: absolute ;
+    top: 80px;
+    left: 2px;
+    
+    
+}
+#side {
+     left: 2px;
+     position: absolute;
+     top: 50px;
+     font-size: 14px;
+}
+#link {
+    position: absolute;
+    top: 130px;
+    right: 50px;
+}
+#para2 {
+    font-size: 14px;
+}
+#description {
+    left: 600px;
+    position: absolute;
+    display: inline;
+
+}
+#ary {
+    top: 15px;
+    left: 500px;
+    position: absolute;
+}
+#geo {
+    left: 500px;
+    top: 40px;
+}
+#samaa {
+    left: 500px;
+    top: 65px;
+}
+#ham {
+    left: 500px;
+    top: 90px;
+}
+#aaj {
+    top: 115px;
+    left: 500px;
+}
+#ary2 {
+    top: 15px;
+    left: 800px;
+    position: absolute;
+}
+#geo2 {
+    left: 800px;
+    top: 40px;
+}
+#samaa2 {
+    left: 800px;
+    top: 55px;
+}
+#ham2 {
+    left: 800px;
+    top: 90px;
+}
+#aaj2 {
+    top: 115px;
+    left: 800px;
+}
+.hoverme:hover {
+    cursor: pointer;
+}
+#lastone {
+    position: absolute;
+    left: 500px;
+    top: 170px;
+    font-size: 20px;
+    color: black;
+}
+#search:hover {
+    border-bottom: 1px solid black;
+    border-top: 0px solid black;
+    border-left: 0px;
+    border-right: 0px;
+    
+}
+
+
